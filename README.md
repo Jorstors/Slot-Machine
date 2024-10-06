@@ -5,6 +5,7 @@ This is a simple slot machine project split into two sections: a browser-based s
 ## Project Structure
 
 - **/assets/**: Contains the image files for the slot machine symbols.
+- **/node_modules/**: Contains all Node.js dependencies required for the console project to run, such as third-party libraries and modules.
 - **index.html**: The main HTML file for the browser version of the slot machine.
 - **style.css**: The CSS file for styling the browser slot machine.
 - **script.js**: The JavaScript file controlling the logic for the browser slot machine.
@@ -36,14 +37,14 @@ This is a simple slot machine project split into two sections: a browser-based s
 #### Browser Version
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/slot-machine.git
+    git clone https://github.com/Jorstors/slot-machine.git
     ```
 2. Open `index.html` in your browser to play the browser-based slot machine.
 
 #### Node.js Version
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/slot-machine.git
+    git clone https://github.com/Jorstors/slot-machine.git
     ```
 2. Install dependencies:
     ```bash
